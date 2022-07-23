@@ -1,5 +1,5 @@
 # Natural Language Processing - NLP
-This repository sharing my practice on Natural Language Processing (NLP) by different dataset.
+This repository sharing my practice different algoritms in Natural Language Processing (NLP) by different dataset.
 
 ### Algorithms in NLP:
 1. Similarity Search - Facebook AI Similarity Search (Faiss)
