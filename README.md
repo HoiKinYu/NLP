@@ -5,8 +5,21 @@ This repository sharing my practice different algoritms in Natural Language Proc
 1. Similarity Search - Facebook AI Similarity Search (Faiss)
 2. Classification - Fake News with RNN and LSTM
 3. Classification - Resume Selector with Naive Bayes Classifiers
+4. Classification - Stocks Sentiment Analysis with RNN and LSTM
 
 ### Logs:
+2022-07-24 Uploaded ***Classification - Stocks Sentiment Analysis with RNN and LSTM 220724.ipynb***
+
+***Executive Summary:***
+
+***Goal:***
+- To understand the sentiment from public tweets, which could be used as a factor while making a buy/sell decision of securities based on Recurrent Neural Networks (RNN) and Long Short Term Memory (LSTM)
+
+***Result:***
+- Overall accuracy 0.67 (total number of data 5791)
+- f1-score for not flagged 0.65 and flagged 0.69 (number of not flagged data 4632  and number of flagged data 1159)
+
+----------------------------------------------------------------------------------------------------------
 2022-07-24 Uploaded ***Classification - Resume Selector with Naive Bayes Classifiers 220724.ipynb***
 
 ***Executive Summary:***
