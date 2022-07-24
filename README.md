@@ -3,8 +3,18 @@ This repository sharing my practice different algoritms in Natural Language Proc
 
 ### Algorithms in NLP:
 1. Similarity Search - Facebook AI Similarity Search (Faiss)
+2. Classification - Fake News with RNN and LSTM
 
 ### Logs:
+2022-07-24 Uploaded ***lassification - Fake News with RNN and LSTM 220724.ipynb***
+
+***Executive Summary:***
+
+***Goal:***
+- Detect fake news based on Recurrent Neural Networks (RNN) and Long Short Term Memory (LSTM)
+
+----------------------------------------------------------------------------------------------------------
+
 2022-07-22 Uploaded ***Similarity Search - Facebook AI  Faiss - Twitter Airline Dataset 220722.ipynb***
 
 ***Executive Summary:***
