@@ -14,6 +14,10 @@ This repository sharing my practice different algoritms in Natural Language Proc
 ***Goal:***
 - To predict whether a given resume text is flagged or not with Navie Bayes Classifiers
 
+***Result:***
+- Overall accuracy 0.72 (total number of data 125)
+- f1-score for not flagged 0.81 and flagged 0.46 (number of not flagged data 92 and number of flagged data 33)
+
 ----------------------------------------------------------------------------------------------------------
 2022-07-24 Uploaded ***Classification - Fake News with RNN and LSTM 220724.ipynb***
 
