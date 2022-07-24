@@ -4,9 +4,18 @@ This repository sharing my practice different algoritms in Natural Language Proc
 ### Algorithms in NLP:
 1. Similarity Search - Facebook AI Similarity Search (Faiss)
 2. Classification - Fake News with RNN and LSTM
+3. Classification - Resume Selector with Naive Bayes Classifiers
 
 ### Logs:
-2022-07-24 Uploaded ***lassification - Fake News with RNN and LSTM 220724.ipynb***
+2022-07-24 Uploaded ***Classification - Resume Selector with Naive Bayes Classifiers 220724.ipynb***
+
+***Executive Summary:***
+
+***Goal:***
+- To predict whether a given resume text is flagged or not with Navie Bayes Classifiers
+
+----------------------------------------------------------------------------------------------------------
+2022-07-24 Uploaded ***Classification - Fake News with RNN and LSTM 220724.ipynb***
 
 ***Executive Summary:***
 
