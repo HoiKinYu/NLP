@@ -6,8 +6,28 @@ This repository sharing my practice different algoritms in Natural Language Proc
 2. Classification - Resume Selector with Naive Bayes Classifiers
 3. Classification - Stocks Sentiment Analysis with RNN and LSTM
 4. Classification - Fake News with RNN and LSTM
+5. Text Generation - Generate New Recipes with GPT-2
 
 ### Logs:
+
+2022-07-25 Uploaded ***Text Generation - Generate New Recipes with GPT-2 220725.ipynb***
+
+***Executive Summary:***
+
+***Goal***: 
+- Finetuning a distilled version of GPT-2 on a smaller-scale dataset comprising recipes
+- The recipes are split into ingredients and instructions
+- Use GPT-2 to generate instructions from a list of ingredients
+
+***Table of Content:***
+
+0. Data Sample
+1. Exploratory Data Analysis and Preprocessing
+2. Dataset Preparation
+3. GPT-2 Pretrained Model Formulation and Theory
+
+----------------------------------------------------------------------------------------------------------
+
 2022-07-25 Uploaded ***Classification - Fake News with RNN and LSTM 220725.ipynb***
 
 ***Executive Summary:***
