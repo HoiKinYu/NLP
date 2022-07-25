@@ -24,7 +24,7 @@ This repository sharing my practice different algoritms in Natural Language Proc
 0. Data Sample
 1. Exploratory Data Analysis and Preprocessing
 2. Dataset Preparation
-3. GPT-2 Pretrained Model Formulation and Theory
+3. GPT-2 Model Formulation
 
 ----------------------------------------------------------------------------------------------------------
 
