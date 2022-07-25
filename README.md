@@ -26,6 +26,9 @@ This repository sharing my practice different algoritms in Natural Language Proc
 2. Dataset Preparation
 3. GPT-2 Model Formulation
 
+***Source of Dataset***:
+- [Dataset](https://eightportions.com/datasets/Recipes/#fn:1) collated by Ryan Lee, sourced from [Food Network](https://www.foodnetwork.com/), [Epicurious](https://www.epicurious.com/), and [Allrecipes](https://www.allrecipes.com/).
+
 ----------------------------------------------------------------------------------------------------------
 
 2022-07-25 Uploaded ***Classification - Fake News with RNN and LSTM 220725.ipynb***
