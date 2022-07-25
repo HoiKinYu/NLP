@@ -3,11 +3,23 @@ This repository sharing my practice different algoritms in Natural Language Proc
 
 ### Algorithms in NLP:
 1. Similarity Search - Facebook AI Similarity Search (Faiss)
-2. Classification - Fake News with RNN and LSTM
-3. Classification - Resume Selector with Naive Bayes Classifiers
-4. Classification - Stocks Sentiment Analysis with RNN and LSTM
+2. Classification - Resume Selector with Naive Bayes Classifiers
+3. Classification - Stocks Sentiment Analysis with RNN and LSTM
+4. Classification - Fake News with RNN and LSTM 220724
 
 ### Logs:
+2022-07-25 Uploaded ***Classification - Fake News with RNN and LSTM 220724.ipynb***
+
+***Executive Summary:***
+
+***Goal:***
+- Detect fake news based on Recurrent Neural Networks (RNN) and Long Short Term Memory (LSTM)
+
+***Result:***
+- Overall accuracy 1.0 (total number of data 8980)
+- f1-score for real news 1.0 (1 of 4684 real news predicted as fake news) and fake news 1.0 (4 of 4296 real news predicted as fake news)
+
+----------------------------------------------------------------------------------------------------------
 2022-07-24 Uploaded ***Classification - Stocks Sentiment Analysis with RNN and LSTM 220724.ipynb***
 
 ***Executive Summary:***
